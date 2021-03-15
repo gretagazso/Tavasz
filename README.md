@@ -2,14 +2,7 @@
 <html lang="hu">
 <head>
 <title>Tavasz</title>
-<meta charset="utf-8">
-<style type="text/css">
- 
-  div:nth-child(1) { 
-                    background-color:azure;
-                    color:blue;
-                   }   
-  
+
 </head>
 
 <body>
