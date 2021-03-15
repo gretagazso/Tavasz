@@ -8,7 +8,7 @@
 <body>
 
 	 
- <h1><P align='center'><strong><font size=+5>Tavaszi virágok</strong></font></h1>
+ <h1><P align='center'><strong><font size=+7>Tavaszi virágok</strong></font></h1>
 <p><font color=#FF0000 size=+2>A tavasz bővelkedik a szebbnél szebb virágokban. Egyes fajok, mint például a <i>téltemető</i>, már tél végén elkezdik bontogatni virágaikat, így jelezve a tavasz közeledtét.
 Szinte egyik természetes hatású kertből sem hiányoznak a színpompás <i>kankalinok, krókuszok, nárciszok, jácintok, gyöngyikék és tulipánok.</i></p>
 <p>A tavasszal virágzó évelők és hagymások választéka azonban ennél jóval gazdagabb, bejegyzésünkben az előbbieknél kevésbé közismert, ám nem kevésbé szép tavasszal virágzó évelőket és hagymásokat mutatunk be.</font></p>
